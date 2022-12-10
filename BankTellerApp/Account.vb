@@ -86,6 +86,7 @@ Public Class Account
                 fields = line.Split(","c)
 
                 Dim account As Account
+                account = New Account
                 account.AccountId = fields(0)
                 account.AccountName = fields(1)
                 account.Balance = CDec(fields(2))
