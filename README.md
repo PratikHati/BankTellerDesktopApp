@@ -7,14 +7,14 @@ Bank Teller App
 3. The user must be able to enter an amount of money to deposit or withdraw. The application will show the updated account balance.
 4. The user should be able to view total Deposits and Withdrawal for the account.
 
-                                                                    Accounts.dat file
-                                                                    AcctNumber,Name,Balance
-                                                                    11111,Sarah Connor,825.50
-                                                                    22222,Pavol Almasi,1000000
-                                                                    33333,Guy Poor,3
-                                                                    44444,Guy Rich,123456789
-                                                                    55555,Bob Sponge,515
-                                                                    66666,Marie Currie,88
+                                              Accounts.dat file
+                                              AcctNumber,Name,Balance
+                                              11111,Sarah Connor,825.50
+                                              22222,Pavol Almasi,1000000
+                                              33333,Guy Poor,3
+                                              44444,Guy Rich,123456789
+                                              55555,Bob Sponge,515
+                                              66666,Marie Currie,88
 
 
 Form elements:
